@@ -1,6 +1,6 @@
 # awsome-pos
 
-> y
+> this is a perform for somebody operate the cooks
 
 ## Build Setup
 
